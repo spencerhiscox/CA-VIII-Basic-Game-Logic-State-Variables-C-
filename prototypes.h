@@ -1,6 +1,6 @@
 /*
 Copyright© Spencer Hiscox, 2023
-All rights reserved
+All Rights Reserved
 */
 
 
